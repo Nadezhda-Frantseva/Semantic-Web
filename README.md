@@ -1,1 +1,3 @@
-# Semantic-Web
+The Semantic Web is an extension of the traditional World Wide Web that enhances data with meaning, enabling machines to understand, interpret, and process information more intelligently. Proposed by Tim Berners-Lee, it relies on structured data and linked relationships to improve data interoperability and automation.
+
+As part of my work in this field, I have contributed to the Wikidata: WikiProject Bulgaria/Elections ([link](https://www.wikidata.org/wiki/Wikidata:WikiProject_Bulgaria/Elections)) by enriching its structured data. This involved improving the representation of election-related information in Bulgaria, ensuring better data connectivity, accuracy, and accessibility within the Semantic Web ecosystem.
